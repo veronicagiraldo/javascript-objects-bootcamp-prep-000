@@ -1,2 +1,3 @@
 var playlist={ 
-  'Mariah Carey: Heartbreaker'
+  'Mariah Carey': 'Heartbreaker';
+  
