@@ -2,5 +2,5 @@ var playlist={
   'Mariah Carey': 'Heartbreaker',
   'Usher': 'Yeah!'
 }
-function updatePlaylist()
+function updatePlaylist(playlist, artistName, songTitle)
   
